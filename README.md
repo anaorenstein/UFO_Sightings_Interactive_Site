@@ -38,19 +38,19 @@ When all the pieces were properly crafted and weaved together, we launched the c
 
 This is a snapshot of our portal on a Chrome browser:
 
-![website_overview](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/website_overview.png)
+![website_overview](website_overview.png)
 
 
 
 ### Using Search Criteria
 
-##### Initial Table Visualization
+#### Initial Table Visualization
 
 Scrolling down, we can see the table that is automatically populated as the portal is launched, as well as the 'Filter Search' tab on the left with empty input fields for respective filter criteria:
 
 ![table_overview](table_overview.png)
 
-##### Narrowing Down
+#### Narrowing Down
 
 By typing a date in the 'Enter Date' field, we narrow down the entries to include every entry that was made on a specific date:
 
