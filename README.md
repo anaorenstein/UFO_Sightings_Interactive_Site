@@ -30,7 +30,7 @@ Afterwards, we fulfilled Dana's later request to refine the filtering facilities
 
 ## Results
 
-### UFO HTML Portal
+### UFO Sightings Webpage
 
 We created a folder containing our html file, and another, 'static' folder within it. The 'static' folder contained the JavaScript and CSS files that compose the multiple pieces of the puzzle that would run concomitantly to produce a cohesive,  functional, visual and interactive project. 
 
