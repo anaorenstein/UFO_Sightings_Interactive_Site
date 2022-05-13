@@ -38,35 +38,43 @@ When all the pieces were properly crafted and weaved together, we launched the c
 
 This is a snapshot of our portal on a Chrome browser:
 
-![website_overview](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/website_overview.png)
-
-##### Interactive Link
-
-We have deployed the site on this GitHub repository. To view and interact click [here](https://anaorenstein.github.io/UFOs/).
+![website_overview](website_overview.png)
 
 
 
-### Using Search Criteria
+#### Interactive Link
+
+We have **deployed the site** on this GitHub repository. To view it and interact click [**here**](https://anaorenstein.github.io/UFOs/).
+
+
+
+### Site Navigation - Using Search Criteria
 
 ##### Initial Table Visualization
 
 Scrolling down, we can see the table that is automatically populated as the portal is launched, as well as the 'Filter Search' tab on the left with empty input fields for respective filter criteria:
 
-![table_overview](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/table_overview.png)
+![table_overview](table_overview.png)
+
+
 
 ##### Narrowing Down
 
 By typing a date in the 'Enter Date' field, we narrow down the entries to include every entry that was made on a specific date:
 
-![table_date](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/table_date.png)
+![table_date](table_date.png)
+
+
 
 By typing a city in the 'Enter City' field, maintaining the previous criteria, we narrow down the results to include all the entries that were made on that specific date from this particular city :
 
-![table_city](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/table_city.png)
+![table_city](table_city.png)
+
+
 
 By typing the name o a sighted UFO shape in the corresponding field, 'Shape', further below, and maintaining to the previous criteria, we can narrow down the results to one entry:
 
-![table_shape](/Users/anabisker/Desktop/Data_Analytics_Bootcamp/11_JavaScript/UFOs/table_shape.png)
+![table_shape](table_shape.png)
 
 
 
