@@ -40,6 +40,10 @@ This is a snapshot of our portal on a Chrome browser:
 
 ![website_overview](website_overview.png)
 
+##### Interactive Link
+
+We have deployed the site on this GitHub repository. To view and interact click [here](https://anaorenstein.github.io/UFOs/).
+
 
 
 ### Using Search Criteria
