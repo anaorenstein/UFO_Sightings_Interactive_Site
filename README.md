@@ -1,6 +1,8 @@
 # UFO Sightings
 
+Link to view deployed interactive webpage:
 
+https://anaorenstein.github.io/UFOs/
 
 ## Overview
 
